@@ -1,0 +1,93 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url("img/coffeehands.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.jumbotron {
+  padding: 30px;
+  margin-bottom: 30px;
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 2.1428571435;
+  background-color: transparent;
+
+}
+
+#chatpic{
+  /* display: none; */
+  /* background-image: url("https://www.thebloggerproject.com/wp-content/uploads/2015/05/coffee-chats1.png"); */
+  background-size: cover;
+  /* color: rgba(255, 0, 0, 0.5); */
+  height: 300px;
+  width: 700px;
+  margin: 0 auto;
+}
+/* img{
+  height: 500px;
+} */
+h1{
+  font-family: fantasy;
+  color: white;
+  padding-top: 220px;
+}
+
+.jumbotron h1{
+  color: white;
+}
+
+h2, #profileMessges, li.message{
+ color: white;
+}
+
+#profileh1{
+  padding-top: 0px;
+}
+
+label{
+  color: rgb(152, 52, 49);
+  font-size: 20px;
+}
+
+
+/* #chatpic {
+  background-image: url("https://www.thebloggerproject.com/wp-content/uploads/2015/05/coffee-chats1.png");
+  background-size: cover;
+} */
+.btn{
+  border-radius: 25px;
+  color: brown;
+  background-color: transparent;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 0px;
+  margin-top: 25px;
+  font-weight: bold;
+}
+.btn-warning{
+  border-color: rgb(152, 52, 49);
+  font-weight: bold;
+}
+
+p{
+  color: white;
+}
+
+#profileUserInfoDetails{
+  color: rgb(152, 52, 49)}
+
+.btn-sm{
+  color: white;
+}
+
+div.well{
+
+}
+/* Evengually, I want to:
+1. Put the local/profile info on top of the add message thing, in a long skinny box up top
+2. move add message and messages below that
+3. Add trashcan to the comment to delete
+4. Add thumbsdown functionaility  */
